@@ -10,7 +10,7 @@
 
 ### 1.2 Code Written
 
-[snModel.py](https://github.com/xiaolng/maf/blob/master/snModel.ipynb) : compare two models with different parameters for the light curve of supernova. One model has three parameters, another has six parameters.  Data from Type Ia and IIp supernovas are considered.
+[snModel.py](https://github.com/xiaolng/maf/blob/master/snModel.ipynb): compare two models with different parameters for the light curve of supernova. One model has three parameters, another has six parameters.  Data from Type Ia and IIp supernovas are considered.
 
 [wp12.py](https://github.com/xiaolng/maf/blob/master/wp12.ipynb):  explore some metrics proposed in the white paper [*The Diverse Science Return from a Wide-Area Survey of the Galactic Plane*](https://arxiv.org/abs/1812.03137). For example, the NRevisitsMetric calculate the number of consecutive visits with time differences less than dT. 
 
@@ -22,19 +22,21 @@
 
 ![](https://github.com/xiaolng/weekly_report/blob/master/imgs/snia.png?raw=true)
 
-Figure 1: Curve fitting for light curve of Type Ia supernova.
+Figure 1: Curve fitting for light curve of Type Ia supernova. Created by [snModel.py](https://github.com/xiaolng/maf/blob/master/snModel.ipynb). 
 
 
 
 ![](https://github.com/xiaolng/weekly_report/blob/master/imgs/snlc.png?raw=true)
 
-Figure 2: Curve fitting for light curve of Type IIp supernova.
+Figure 2: Curve fitting for light curve of Type IIp supernova. Created by [snModel.py](https://github.com/xiaolng/maf/blob/master/snModel.ipynb). 
 
 
 
 ![](https://raw.githubusercontent.com/xiaolng/weekly_report/master/imgs/nRvisits.png)
 
-Figure 3: Number of revisits faster than 30 minutes. 
+Figure 3: Number of revisits faster than 30 minutes. Created by [wp12.py](https://github.com/xiaolng/maf/blob/master/wp12.ipynb).
+
+
 
 ### 3. Results
 
