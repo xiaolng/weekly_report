@@ -6,7 +6,7 @@
 
 [Probabilistic Programming in Python using PyMC](https://arxiv.org/abs/1507.08050) :  A step-by-step guide to do model fitting by  pymc3. 
 
-[TDE](): requirements to detect TDEs. 
+[TDE](https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30574/bricman_tde_wfd.pdf):  Disscuss the requirements for LSST to detect TDEs. 
 
 ### 1.2 Code Written
 
@@ -34,4 +34,4 @@ Figure 2: Fitting results  for light curve of Type IIp supernova from pymc3. Cre
 
 I fit two models of supernova light curve by pymc3. Results are similar from scipy.curve_fit for 3-parameter model. But for 6-parameter model, result from pymc3 is more reasonable. 
 
-To evaluate the performance of LSST detect TDEs,  same metrics as for transients.  Need to figure out how TDEs different from other transients.
+To evaluate the performance of LSST detect TDEs,  we can use the same metrics as for transients.  Need to figure out how TDEs different from other transients.
