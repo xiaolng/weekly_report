@@ -6,7 +6,7 @@
 
 [Probabilistic Programming in Python using PyMC](https://arxiv.org/abs/1507.08050) :  A step-by-step guide to do model fitting by  pymc3. 
 
-[TDE](https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30574/bricman_tde_wfd.pdf):  Disscuss the requirements for LSST to detect TDEs. 
+[TDEs with LSST](https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30574/bricman_tde_wfd.pdf):  Disscuss the requirements for LSST to detect TDEs. 
 
 ### 1.2 Code Written
 
@@ -20,13 +20,13 @@
 
 ![](https://raw.githubusercontent.com/xiaolng/weekly_report/master/imgs/snmcfit.png)
 
-Figure 1: Curve fitting for light curve of Type  IIp supernova from pymc3. Created by  [sn_Pymc.py](https://github.com/xiaolng/maf/blob/master/snModel.ipynb). 
+Figure 1: Curve fitting for light curve of Type  IIp supernova from pymc3. Created by  [sn_Pymc.py](https://github.com/xiaolng/maf/blob/master/sn_Pymc.ipynb). 
 
 
 
 ![](https://raw.githubusercontent.com/xiaolng/weekly_report/master/imgs/snpymc.png)
 
-Figure 2: Fitting results  for light curve of Type IIp supernova from pymc3. Created by [sn_Pymc.py](https://github.com/xiaolng/maf/blob/master/snModel.ipynb). 
+Figure 2: Fitting results  for light curve of Type IIp supernova from pymc3. Created by [sn_Pymc.py](https://github.com/xiaolng/maf/blob/master/sn_Pymc.ipynb). 
 
 
 
