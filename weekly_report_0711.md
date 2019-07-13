@@ -4,7 +4,7 @@
 
 ### 1.1 Papers Read
 
-[Neural Network Learning](https://www.holehouse.org/mlclass/09_Neural_Networks_Learning.html): The notes from cs229 taught by Andrew Ng, 
+[Neural Network Learning](https://www.holehouse.org/mlclass/09_Neural_Networks_Learning.html): The notes from cs229 taught by Andrew Ng. Learn to build a simple neural network step by step. 
 
 ### 1.2 Code Written
 
