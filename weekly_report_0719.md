@@ -1,4 +1,4 @@
-# Xiaolong - Week of 07/05/2019
+# Xiaolong - Week of 07/19/2019
 
 ## 1. Papers and code
 
