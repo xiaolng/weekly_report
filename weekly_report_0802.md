@@ -29,7 +29,7 @@ Figure 1: Results from baseline operation using TDEsAsciiMetric within first two
 
 
 
-![0802_db_tdemc.png](https://github.com/xiaolng/weekly_report/blob/master/imgs/0802_db_tdemc.png?raw=true)
+![0802_db_tdemc.png](https://github.com/xiaolng/weekly_report/blob/master/imgs/0802_db_tdemc.jpeg?raw=true)
 
 Figure 2:  Results from baseline operation using TDEsMonteMetric within first two years. Same as above, pontus_2573 has the best performance. 
 
