@@ -33,6 +33,11 @@ Figure 1: Results from baseline operation using TDEsAsciiMetric within first two
 
 Figure 2:  Results from baseline operation using TDEsMonteMetric within first two years. Same as above, pontus_2573 has the best performance. 
 
+![0802 lc.png](https://github.com/xiaolng/weekly_report/blob/master/imgs/0802_lc.png?raw=true)
+
+Figure 3: An detected light curve from pontus_2573. Pontus_2573 has many detections with paired filters, thus it is the best one to observe transients.
+
+
 ## 3. Results
 
 I wrote two metric class *TDEsAsciiMetric* and *TDEsMonteMetric* to evaluate the detection of TDEs from simulated light curve. Both metric can be used to put requirements on the number of observations/filters at prePeak/nearPeak/postPeak. TDEsAsciiMetric injects continuous saw-tooth shaped transients into sky, while TDEsMonteMetric using a Monte Carlo approach, i.e, injects light curve at times  randomly selected from a Poisson distribution. I use them to compare six opsim databases and find that pontus_2573.db has the best performance from both metrics. Also  Monte Carlo approach is more precise and similar to real scenario. 
