@@ -18,7 +18,7 @@ I read some papers about light echos.
 - [Eta Carinae]()
 ### 1.2 Code Written
 
-[](source/gan_mnist_keras.ipynb): A simple implementation of GANs using keras. GAN is a unsupervised learning method that can be used to generate similar samples from datasets. Trained by enough data, it is possible to apply GANs to detect light echos. 
+[gan_mnist_keras.ipynb](source/gan_mnist_keras.ipynb): A simple implementation of GANs using keras. GAN is a unsupervised learning method that can be used to generate similar samples from datasets. Trained by enough data, it is possible to apply GANs to detect light echos. 
 
 ## 2. Figures
 
