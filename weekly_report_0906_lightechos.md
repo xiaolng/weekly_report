@@ -4,7 +4,8 @@
 
 ### 1.1 Papers Read
 
-#### List of light echos
+I read some papers about light echos. 
+
 - [V838 Monocerotis]()
 - [SNR 0509-67.5](https://arxiv.org/pdf/0801.4762.pdf)
 - [Tycho’s 1572 supernova](https://www.nature.com/articles/nature07608)
@@ -15,16 +16,20 @@
 - [Eta Carinae]()
 ### 1.2 Code Written
 
-
+[](source/gan_mnist_keras.ipynb): A simple implementation of GANs using keras. GAN is a unsupervised learning method that can be used to generate similar samples from datasets. 
 
 ## 2. Figures
 
 ![](imgs/V838.jpg)
 
+Figure 1.  The light echo around variable star V838 Monocerotis observed by the Hubble Space Telescope. 
 
 
 
+![](imgs/le_sn1987a.png)
+
+Figure 2. The light echo from  supernova SN1987A. 
 
 ## 3. Results
 
-I read several papers about light echos. 
+I read several papers about light echos. Light echos are produced when the light of a rapidly brightening object, like a supernova, is reflected by interstellar dust. The reflected light may arrive at the observer much later then the source of the light. Therefore we can use light echo  to study historical supernova. 
