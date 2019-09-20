@@ -22,7 +22,9 @@ Figure 1: The observation's filter style map of a field from baseline2018. Most 
 
 Figure 2: The observation's filter style map of a field from pontus. Within 1.5 hours, more visits within 1.5 hours have different filter than baseline. 
 
+![](imgs/0920_skymap1.png)
 
+Figure 3: The number of visits between  filter i and y within 1.5 hours. Results are from baseline2018.
 
 ## 3. Results
 
