@@ -4,7 +4,7 @@
 
 ### 1.1 Papers Read
 
-[ExtraGan](https://iopscience.iop.org/article/10.3847/1538-3881/aae77c): This article applies GANs to atmospheric retrievals on exoplanets. ExoGAN is able to recognize molecular features, atmospheric trace-gas abundances and planetary parameters.
+[ExoGan](https://iopscience.iop.org/article/10.3847/1538-3881/aae77c): This article applies GANs to atmospheric retrievals on exoplanets. ExoGAN is able to recognize molecular features, atmospheric trace-gas abundances and planetary parameters.
 
 [Semantic Image Inpaiting with Deep Generative Models](https://arxiv.org/abs/1607.07539): The image inpainting algorithm used in ExoGan.
 
