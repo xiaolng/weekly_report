@@ -29,9 +29,9 @@ To evaluate LSST's ability to discover unknown phenomena, we plan to map its obs
 
 - [filterNvisitsM5Metric](): written by Fabio, this metric counts the number of visits for each filter and plot a 2D array together the median of their fiveSigmaDepth. 
 
-- [filterPairsMetric](source/filterPairsMetric.ipynb): 
+- [filterPairsMetric](source/filterPairsMetric.ipynb): this metric counts the number of visits for each filter pairs within time Δt and plot the result as a heat map in filter space or skymap for one of the filter pairs. This metric is able to check whether our observation strategy is biased to some filters for a field or the whole sky.
 
-- [timeGapsMetric](source/timeGapsMetric.ipynb): This metric extends the filterPairsMetric, 
+- [timeGapsMetric](source/timeGapsMetric.ipynb): This metric extends the filterPairsMetric and is able to output histograms of all possible time gaps between two filters. 
 
   
 
@@ -39,7 +39,11 @@ To evaluate LSST's ability to discover unknown phenomena, we plan to map its obs
 
 ![](imgs/1024_dT_bsline10yrs.png)
 
-Figure 1. 
+Figure 1. The histogram of time gaps between two filters from latest baseline run. This latest baseline run is much better than baseline2018. But filter pair uz and uy are completely missed within first year. 
+
+
+
+
 
 
 
