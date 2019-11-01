@@ -24,6 +24,6 @@ Figure 1: The skymap of the number of visits within 1.5 hours from presto cadenc
 
 ## 3. Results
 
-I learned the WGAN which adjusts the loss function and get rid of problems like mode collapse. In the paper *arxiv.org/abs/1904.12846*,  they trained a WGAN using simulated cosmic hydrogen web from IllustrisTNG. The WGAN model successfully produce samples with similiar statisticl properties. The problem is that WGAN is not interpretable and it can not generate samples for different redshifts. 
+I learned the WGAN which adjusts the loss function and get rid of problems like mode collapse. In the paper *arxiv.org/abs/1904.12846*,  they trained a WGAN using simulated cosmic hydrogen web from IllustrisTNG. The WGAN model successfully produce samples with similiar statistical properties. The problem is that WGAN is not interpretable and it can not generate samples for different redshifts. 
 
 Also, I ran timeGapsMetric on the latest baseline operation and presto. The plots show that latest baseline is much better than the baseline2018. Besides, both baseline and presto do not have enough visits in uy, uz, ug, rz bands. 
