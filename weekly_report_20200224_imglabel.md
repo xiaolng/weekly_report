@@ -4,7 +4,7 @@
 
 ### 1.1 Papers Read
 
-[PASCAL Visual Object Classes (VOC) Challenge](http://host.robots.ox.ac.uk/pascal/VOC/): The 
+[PASCAL Visual Object Classes (VOC) Challenge](http://host.robots.ox.ac.uk/pascal/VOC/): The challenge is a benchmark in visual object detection, it provide a standard dataset of images and annotation, which has been used in Faster RCNN and YOLO. 
 
 
 
@@ -24,7 +24,7 @@ Figure 1. An example of labeled images. The bound box information inside folder 
 
 ## 3. Results
 
-
+To achieve the automatic detection of light echoes, the first thing needed is to build a image dataset with high quality annotation. I label some image in the format of PASCAL VOC. Next I will try to use these image to train a model and test the performance of different models. 
 
 
 
@@ -41,7 +41,11 @@ Image label tools:
 - LabelImg
 
 - Images Annotation Programme https://github.com/frederictost/images_annotation_programme/
-- 
+- RectLabel (for Mac )
+
+
+
+
 
 
 
