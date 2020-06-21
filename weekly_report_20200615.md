@@ -32,11 +32,11 @@ I built a dataset used to train YOLO v3. The YOLOv3 got very high score on the t
 
 ## 4. Next Steps
 
-Show false positive cases of Conv2D model.(Delivery: 06/24)
+Show false positive cases of Conv2D model.(Delivery: 06/25)
 
-Learn to do image augmentation along with bound box. ( Delivery:06/24 )
+Learn to do image augmentation along with bound box. ( Delivery:06/25 )
 
-Make better figures for project of discover unknowns. (Delivery:06/24 )
+Make better figures for project of discover unknowns. (Delivery:06/25 )
 
 Learn how to evaulate objection detection model, ROC curve, mAP... 
 
