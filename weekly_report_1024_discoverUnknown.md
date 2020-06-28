@@ -24,6 +24,7 @@ To evaluate LSST's ability to discover unknown phenomena, we plan to map its obs
 - filter
 - fiveSigmaDepth          
 -  observationStartMJD/observationId/night
+-  Seeing
 
 **Metrics available by now**:
 
@@ -33,6 +34,10 @@ To evaluate LSST's ability to discover unknown phenomena, we plan to map its obs
 
 - [timeGapsMetric](source/timeGapsMetric.ipynb): This metric extends the filterPairsMetric and is able to output histograms of all possible time gaps between two filters. 
 
+- [ProperMotionMetric](): Calculate the uncertainty in the returned proper motion.
+
+- 
+
   
 
 **Results**: 
@@ -40,6 +45,12 @@ To evaluate LSST's ability to discover unknown phenomena, we plan to map its obs
 ![](imgs/1024_dT_bsline10yrs.png)
 
 Figure 1. The histogram of time gaps between two filters from latest baseline run. This latest baseline run is much better than baseline2018. But filter pair uz and uy are completely missed within first year. 
+
+
+
+
+
+
 
 
 

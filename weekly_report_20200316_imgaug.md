@@ -29,14 +29,3 @@ skimage: scikit-image
 Keras ImageDataGenerator:
 
 Imgaug: 
-
-
-
-
-
-
-
-
-
-
-

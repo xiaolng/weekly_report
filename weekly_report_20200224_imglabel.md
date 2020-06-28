@@ -20,8 +20,6 @@
 
 Figure 1. An example of labeled images. The bound box information inside folder annotations. 
 
-
-
 ## 3. Results
 
 To achieve the automatic detection of light echoes, the first thing needed is to build a image dataset with high quality annotation. I label some image in the format of PASCAL VOC. Next I will try to use these image to train a model and test the performance of different models. 
