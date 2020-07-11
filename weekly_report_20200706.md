@@ -9,7 +9,7 @@
 ### 1.2 Code
 [inspect_model.ipynb](source/inspect_model.ipynb): I trained Faster RCNN model to on ALTAS images to detect stars and light echoes.
 
-[](source/plot_barh_FOM.ipynb): This notebook shows how to plot barh of FoM for opsims. 
+[plot_barh_FoM.ipynb](source/plot_barh_FOM.ipynb): This notebook shows how to plot barh of FoM for opsims. 
 
 ## 2. Figures
 ![FPN Faster RCNN](imgs/20200706_1.jpeg)
