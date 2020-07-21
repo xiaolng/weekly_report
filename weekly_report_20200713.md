@@ -26,12 +26,12 @@
 
 Figure 1: An example of results from yolo, it performs very well on the training and test set.  
 
-![yolo_LE](imgs/20200713_1.png)
+![yolo_LE](imgs/20200713_2.png)
 
 Figure 2: After rotation, yolo fails to predict one of light echoes. This means yolo is overfitting due to small training dataset.  
 
 
-![yolo_LE](imgs/20200713_1.png)
+![yolo_LE](imgs/20200713_3.png)
 
 Figure 3: I explore the footprints of opsims. This figure shows the footprint by survey  'short'.
 
